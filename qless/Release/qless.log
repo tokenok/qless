@@ -1,0 +1,47 @@
+﻿  Game.cpp
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.h(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(140): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(244): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(245): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(316): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(411): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(537): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(538): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(558): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(559): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(576): warning C4018: '>=': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(593): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(598): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(604): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(631): warning C4018: '>=': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(633): warning C4018: '>=': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(645): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(646): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(655): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(656): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(665): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(666): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(676): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(677): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(681): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(716): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(717): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(718): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(719): warning C4244: '=': conversion from 'double' to 'LONG', possible loss of data
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(728): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(799): warning C4018: '<': signed/unsigned mismatch
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(831): warning C4838: conversion from 'unsigned int' to 'LONG' requires a narrowing conversion
+c:\users\josh\documents\visual studio 2017\projects\qless\qless\game.cpp(833): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  118 of 1726 functions ( 6.8%) were compiled, the rest were copied from previous compilation.
+    116 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  qless.vcxproj -> C:\Users\Josh\Documents\Visual Studio 2017\Projects\qless\Release\qless.exe
