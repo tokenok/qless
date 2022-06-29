@@ -8,7 +8,6 @@
 
 
 int APIENTRY wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPWSTR lpCmdLine, int nCmdShow) {
-
 	Game* game = new Game(hInstance);
 
 	MSG Msg;

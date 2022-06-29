@@ -813,14 +813,14 @@ void Game::Solve() {
 
 	//print words alphabetically but also by size
 	std::stable_sort(valid_words.begin(), valid_words.end());
-	std::stable_sort(valid_words.begin(), valid_words.end(), [](const std::string& l, const std::string& r) ->bool { return l.size() < r.size(); });
+	std::stable_sort(valid_words.begin(), valid_words.end(), [](const std::string& l, const std::string& r) ->bool { return l.size() > r.size(); });
 	for (auto w : valid_words) {
 		std::cout << w << '\n';
 	}
 	std::cout << "\n=================================\n\n";
 
 
-	return;
+	//return;
 	//do solve
 	for (auto word : valid_words) {
 		std::string t = word;
@@ -837,7 +837,7 @@ void Game::Solve() {
 					ptto.x += p;
 					this->MoveSelectedDice(ptto, false);
 					this->selected_boxs.clear();
-					//std::this_thread::sleep_for(std::chrono::milliseconds(100));
+					std::this_thread::sleep_for(std::chrono::milliseconds(100));
 				}
 			}
 			this->checkWords();
@@ -846,6 +846,7 @@ void Game::Solve() {
 			break;
 		}
 		else if (this->correct_words.size() == 1) {//second word
+			return;
 			int remaining_letters = this->dice.size() - this->correct_words[0].word.size();
 			if (remaining_letters - word.size() + 1 == 1)
 				continue;
